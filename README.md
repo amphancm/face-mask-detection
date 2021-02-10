@@ -1,3 +1,18 @@
+![alt text](https://scontent.fcnx3-1.fna.fbcdn.net/v/t1.0-9/149285864_3648680535186877_5436769019369357847_o.jpg?_nc_cat=100&ccb=3&_nc_sid=730e14&_nc_eui2=AeGwCexmTF2mHoSBoJ81uYeXKDOfMm5TKDgoM58yblMoOERGzdOXTAMpULj555HmrJQobcmacWAmB5SywcJZvnL7&_nc_ohc=1bnA6xaT63IAX-wS8zH&_nc_ht=scontent.fcnx3-1.fna&oh=74a282fbcc205323f45435d825049e32&oe=60494EF0)
+Test on
+Hardware
+• CPU : Intel i5-6400
+• GPU : GTX1070 6GB
+
+Software
+• OS : Ubuntu 18.04
+• Docker 19.03
+• NVIDIA-Docker V2
+• GPU Driver : 460.32
+
+WORK FINE
+
+
 # face_mask_detection
 
 [NVIDIA Developer Blog](https://developer.nvidia.com/blog/implementing-a-real-time-ai-based-face-mask-detector-application-for-covid-19/)
